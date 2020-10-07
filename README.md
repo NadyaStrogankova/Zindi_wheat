@@ -30,7 +30,7 @@ https://zindi.africa/competitions/cgiar-wheat-growth-stage-challenge
 
 Превращение 15 предсказаний для каждой картинки в среднеквадратичную метку. В итоге - файл для сабмита
 
-Wheat_ResNet34.ipynb
+**Wheat_ResNet34.ipynb**
 
 Ноутбук, который работал в google colab. Если там не хватало GPU, то я его подключала к AWS через туннель на ноуте
 Лучший результат получился на метках small_test на модели ResNet34. 
